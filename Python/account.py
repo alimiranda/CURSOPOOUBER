@@ -5,3 +5,5 @@ class Account:
     document  = str
     email     = str
     password  = str
+    
+    # This is a line of prove :)
