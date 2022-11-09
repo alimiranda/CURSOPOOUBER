@@ -1,6 +1,17 @@
-function Route() {
+class Route {
 
-    this.id;
-    this.start;
-    this.end;
+    constructor(){
+
+        this.id;
+        this.start;
+        this.end;
+    }
 }
+
+
+//function Route() {
+
+//    this.id;
+//    this.start;
+//    this.end;
+//}
